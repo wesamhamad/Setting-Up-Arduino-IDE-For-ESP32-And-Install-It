@@ -1,4 +1,4 @@
-# Setting up Arduino IDE for ESP32
+# Setting Fp Arduino IDE For ESP32 And Install It
 <p align="center">
   <img width="460" height="300" src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png?resize=828%2C492&quality=100&strip=all&ssl=1">
 </p>
